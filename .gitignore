@@ -1,0 +1,14 @@
+# generated output - regenerated on every run, never committed
+campaign/
+scene_library/
+launch/
+scene_out/
+out/
+__pycache__/
+*.pyc
+.DS_Store
+assets/
+
+# private - kept locally, never published
+brand/
+docs/
